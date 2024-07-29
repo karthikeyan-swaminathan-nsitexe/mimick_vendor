@@ -2,8 +2,8 @@
 Changelog for package mimick_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.8.1 (2024-07-29)
+------------------
 * Update hash to fix windows failures (`#39 <https://github.com/ros2/mimick_vendor/issues/39>`_)
 * Contributors: Alejandro Hernández Cordero
 
