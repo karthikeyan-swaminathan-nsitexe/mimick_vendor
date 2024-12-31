@@ -1,2 +1,2 @@
 # mimick_vendor
-CMake shim over the mimick library: https://github.com/Snaipe/Mimick
+CMake shim over the mimick library RISC-V 64 variant: https://github.com/ziyao233/Mimick.git
